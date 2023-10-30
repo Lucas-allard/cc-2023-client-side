@@ -1,13 +1,9 @@
 import './globals.css'
 import Header from "@/components/header";
 import Footer from "@/components/Footer"
+import Contact from '@/components/Contact';
 import { config } from '@fortawesome/fontawesome-svg-core'
 import '@fortawesome/fontawesome-svg-core/styles.css'
-<<<<<<< home-page
-import Contact from '@/components/Contact';
-
-=======
->>>>>>> main
 config.autoAddCss = false
 
 export const metadata = {
