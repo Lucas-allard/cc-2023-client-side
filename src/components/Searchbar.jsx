@@ -15,7 +15,7 @@ const Searchbar = () => {
             <form className='w-full min-h-screen bg-white p-2'>
                 <Input
                     placeholder={"Rechercher par mot-clé"}
-                    cssClass='w-full border-2 border-slate-300 p-3'
+                    cssClass='w-full border-2 border-slate-300 text-black p-3 focus:outline-none focus:ring-0'
                 />
             </form>
             }
