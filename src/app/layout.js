@@ -1,5 +1,5 @@
 import './globals.css'
-import Header from "@/components/header";
+import Header from "@/components/Header";
 import Footer from "@/components/Footer"
 import Contact from '@/components/Contact';
 import { config } from '@fortawesome/fontawesome-svg-core'
