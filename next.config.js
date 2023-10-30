@@ -3,7 +3,7 @@ const nextConfig = {
     reactStrictMode: true,
 
     // Add basePath
-    basePath: '/github-pages',
+    basePath: '/cc-2023-client-side',
 }
 
 module.exports = nextConfig
