@@ -1,7 +1,7 @@
 {
   "name": "coding-contest",
   "version": "0.1.0",
-  "homepage": "https://lucas-allard.github.io/cc-2023-client-side/",
+  "homepage": "http://lucas-allard.github.io/cc-2023-client-side/",
   "private": true,
   "scripts": {
     "dev": "next dev",
