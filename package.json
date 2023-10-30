@@ -1,15 +1,15 @@
 {
   "name": "coding-contest",
   "version": "0.1.0",
-  "homepage": "https://lucas-allard.github.io/cc-2023-client-side/",
+  "homepage": "http://lucas-allard.github.io/cc-2023-client-side/",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
@@ -23,7 +23,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^10",
-    "gh-pages": "^6.0.0",
     "postcss": "^8",
     "tailwindcss": "^3"
   }
