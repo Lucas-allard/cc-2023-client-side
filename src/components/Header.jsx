@@ -9,7 +9,7 @@ const Header = () => {
             <div className="flex flex-nowrap justify-between items-center gap-4">
                 <div className="flex flex-col items-center gap-2">
                     <FontAwesomeIcon icon={faHouse}/>
-                        <p className="text-xl font-bold">Accueil</p>
+                    <p className="text-xl font-bold">Accueil</p>
                 </div>
                 <div className="flex flex-col items-center gap-2">
                     <FontAwesomeIcon icon={faPlane}/>
