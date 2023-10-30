@@ -12,10 +12,10 @@ const Searchbar = () => {
     return (
         <>
             {isActive &&
-            <form className='w-full min-h-screen bg-white p-2'>
+            <form className='w-full min-h-screen bg-black p-2'>
                 <Input
                     placeholder={"Rechercher par mot-clé"}
-                    cssClass='w-full border-2 border-slate-300 text-black p-3 focus:outline-none focus:ring-0'
+                    cssClass='w-full border-2 border-slate-300 text-white p-3 focus:outline-none focus:ring-0'
                 />
             </form>
             }
