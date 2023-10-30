@@ -1,15 +1,12 @@
 {
   "name": "coding-contest",
   "version": "0.1.0",
-  "homepage": "http://lucas-allard.github.io/cc-2023-client-side/",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
